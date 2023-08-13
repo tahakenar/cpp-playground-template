@@ -8,6 +8,6 @@ int main(){
     Foo foo(3);
 
     foo_ns::foo_func("nane");
-    
+
     return 0;
 }
