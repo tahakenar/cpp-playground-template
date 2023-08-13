@@ -17,4 +17,4 @@ jobs:
 
       - name: Build project
         run: |
-            .${{github.workspace}}/scripts/build.sh
+            ./scripts/build.sh
