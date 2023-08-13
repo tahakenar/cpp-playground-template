@@ -5,7 +5,7 @@
 
 class Foo {
     public:
-        Foo(int id);
+        explicit Foo(int id);
         ~Foo();
     private:
         int id_;
